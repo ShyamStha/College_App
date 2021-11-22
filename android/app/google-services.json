@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "203523800999",
+    "firebase_url": "https://patancampus-aad91.firebaseio.com",
+    "project_id": "patancampus-aad91",
+    "storage_bucket": "patancampus-aad91.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203523800999:android:d04c281cbf5522ad338082",
+        "android_client_info": {
+          "package_name": "com.example.patancollege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203523800999-amngg39d16msioc27r8gskkblufou598.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.patancollege",
+            "certificate_hash": "430839ca5b7c636a496c02a540ae38a0d03e9de8"
+          }
+        },
+        {
+          "client_id": "203523800999-4kriq8nh2hcb81ml2as34vla714j29o2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyBc0rjZtiVntuzSbVw8h78iVC8PSkuAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203523800999-4kriq8nh2hcb81ml2as34vla714j29o2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
