@@ -51,7 +51,7 @@ Since we are just a beginner and learning to explore the idea on our project, ev
 <img src="vscode.png"/>
 
 
-## ©️ Santosh Thapa 2020
+## ©️ ShyamStha 2021
 
 
 
